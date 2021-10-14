@@ -1,0 +1,4 @@
+*.log
+dir 1/	
+dir 2/
+static/dir 1
